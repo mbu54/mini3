@@ -1,7 +1,4 @@
-# mini3
-
-## Mini Project 3: 
-## Demonstration of POPPY python package
+## Mini Project 3: Demonstration of POPPY python package
 
 ### What is POPPY?
 
